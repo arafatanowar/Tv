@@ -1,80 +1,80 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/atn-bangla-sd.jpg" group-title="Entertainment", ATN BANGLA HD 0001
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/atn-bangla-sd.jpg" group-title="Entertainment", ATN BANGLA HD 
 http://100.64.64.11:80/ATN_Bangla_SD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/channel-i-hd.jpg" group-title="Entertainment", CHANNEL I HD 0002
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/channel-i-hd.jpg" group-title="Entertainment", CHANNEL I HD 
 http://100.64.64.11:80/Channel_I_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/ekushey-tv-sd.jpg" group-title="Entertainment", Ekushey TV SD 0003
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/ekushey-tv-sd.jpg" group-title="Entertainment", Ekushey TV SD 
 http://100.64.64.11:80/Ekushey_Tv_SD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/ntv-sd.jpg" group-title="Entertainment", NTV SD 0004
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/ntv-sd.jpg" group-title="Entertainment", NTV SD 
 http://100.64.64.11:80/NTV_SD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/rtv-hd.jpg" group-title="Entertainment", RTV HD 0005
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/rtv-hd.jpg" group-title="Entertainment", RTV HD 
 http://100.64.64.11:80/RTV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/boishakhi-tv-hd.jpg" group-title="Entertainment", Boishakhi TV HD 0006
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/boishakhi-tv-hd.jpg" group-title="Entertainment", Boishakhi TV HD 
 http://100.64.64.11:80/Boishakhi_TV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/bangla-vision-hd.link" group-title="Entertainment", BANGLA VISION HD 0007
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/bangla-vision-hd.link" group-title="Entertainment", BANGLA VISION HD 
 http://100.64.64.11:80/Bangla_Vision_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/my-tv-hd.jpg" group-title="Entertainment", My TV HD 0008
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/my-tv-hd.jpg" group-title="Entertainment", My TV HD 
 http://100.64.64.11:80/My_Tv/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/mohona-tv-hd.jpg" group-title="Entertainment", Mohona TV HD 0009
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/mohona-tv-hd.jpg" group-title="Entertainment", Mohona TV HD 
 http://100.64.64.11:80/Mohona_Tv/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/maasranga-tv-hd.jpg" group-title="Entertainment", Maasranga TV HD 0010
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/maasranga-tv-hd.jpg" group-title="Entertainment", Maasranga TV HD 
 http://100.64.64.11:80/Masranga_TV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/channel-9-hd.jpg" group-title="Entertainment", Channel 9 HD 0011
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/channel-9-hd.jpg" group-title="Entertainment", Channel 9 HD 
 http://100.64.64.11:80/Channel_9_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/channel-9-hd.jpg" group-title="Entertainment", G Tv 0012
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/asian-tv-hd.jpg" group-title="Entertainment", Asian TV HD 0013
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/channel-9-hd.jpg" group-title="Entertainment", G Tv 
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/asian-tv-hd.jpg" group-title="Entertainment", Asian TV HD 
 http://100.64.64.11:80/Asian_TV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/sa-tv-hd.jpg" group-title="Entertainment", SA TV HD 0014
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/sa-tv-hd.jpg" group-title="Entertainment", SA TV HD 
 http://100.64.64.11:80/SA_TV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/bijoy-tv-hd.jpg" group-title="Entertainment", Bijoy TV HD 0015
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/bijoy-tv-hd.jpg" group-title="Entertainment", Bijoy TV HD 
 http://100.64.64.11:80/Bijoy_TV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/deepto-tv-hd.jpg" group-title="Entertainment", Deepto TV HD 0016
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/deepto-tv-hd.jpg" group-title="Entertainment", Deepto TV HD 
 http://100.64.64.11:80/Deepto_TV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/bangla-tv-hd.jpg" group-title="Entertainment", Bangla TV HD 0017
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/bangla-tv-hd.jpg" group-title="Entertainment", Bangla TV HD 
 http://100.64.64.11:80/Bangla_TV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/bangla-tv-hd.jpg" group-title="Entertainment", Bangla TV HD 0018
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/ananda-tv-sd.jpg" group-title="Entertainment", Ananda TV SD 0019
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/bangla-tv-hd.jpg" group-title="Entertainment", Bangla TV HD 
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/ananda-tv-sd.jpg" group-title="Entertainment", Ananda TV SD 
 http://100.64.64.11:80/Ananda_TV_SD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/global-tv-hd.jpg" group-title="Entertainment", Global TV HD 0020
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/global-tv-hd.jpg" group-title="Entertainment", Global TV HD 
 http://100.64.64.11:80/Global_Tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Entertainment", Green TV 0021
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Entertainment", Green TV 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/desh-tv-sd.link" group-title="News", Desh TV SD 0022
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/desh-tv-sd.link" group-title="News", Desh TV SD 
 http://100.64.64.11:80/Desh_TV_SD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/atn-news-sd.jpg" group-title="News", ATN News HD 0023
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/atn-news-sd.jpg" group-title="News", ATN News HD 
 http://100.64.64.11:80/ATN_News_SD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/somoy-tv-hd.jpg" group-title="News", Somoy TV HD 0024
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/somoy-tv-hd.jpg" group-title="News", Somoy TV HD 
 http://100.64.64.11:80/Somoy_TV_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png" group-title="News", Independent TV  0025
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/channel-24-hd.jpg" group-title="News", Channel 24 HD 0026
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/channel-24-hd.jpg" group-title="News", Channel 24 HD 
 http://100.64.64.11:80/Channel_24_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/ekattor-tv-hd.jpg" group-title="News", Ekattor TV HD 0027
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/ekattor-tv-hd.jpg" group-title="News", Ekattor TV HD 
 http://100.64.64.11:80/Ekattor_TV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/jamuna-tv-sd.jpg" group-title="News", Jamuna TV SD 0028
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/jamuna-tv-sd.jpg" group-title="News", Jamuna TV SD 
 http://100.64.64.11:80/Jamuna_TV_SD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/news-24-hd.jpg" group-title="News", News 24 HD 0029
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/news-24-hd.jpg" group-title="News", News 24 HD 
 http://100.64.64.11:80/News_24_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/dbc-news-hd.jpg" group-title="News", DBC News HD 0030
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/dbc-news-hd.jpg" group-title="News", DBC News HD 
 http://100.64.64.11:80/DBC_News_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/gaan-bangla-hd.jpg" group-title="Music", Gaan Bangla HD 0031
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/gaan-bangla-hd.jpg" group-title="Music", Gaan Bangla HD 
 http://100.64.64.11:80/Gaan_Bangla_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/duronto-tv-hd.jpg" group-title="Kids", Duronto TV HD 0032
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/duronto-tv-hd.jpg" group-title="Kids", Duronto TV HD 
 http://100.64.64.11:80/Duronto_TV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/duronto-tv-hd.jpg" group-title="Sports", Tsports HD 0033
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/nexus-tv-hd.jpg" group-title="Non-Fectional", Nexus TV HD 0034
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/duronto-tv-hd.jpg" group-title="Sports", Tsports HD 
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/nexus-tv-hd.jpg" group-title="Non-Fectional", Nexus TV HD 
 http://100.64.64.11:80/Nexus_TV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/ekhon-tv-hd.link" group-title="Bussiness", Ekhon TV HD 0035
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/ekhon-tv-hd.link" group-title="Bussiness", Ekhon TV HD 
 http://100.64.64.11:80/Ekhon_Tv/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/btv-world-sd.jpg" group-title="National", BTV TV WORLD SD 0036
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/btv-world-sd.jpg" group-title="National", BTV TV WORLD SD 
 http://100.64.64.11:80/BTV_World_SD/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/btv-national-hd.jpg" group-title="National", BTV HD 0037
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/btv-national-hd.jpg" group-title="National", BTV HD 
 http://100.64.64.11:80/BTV_National/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/btv-chattogram-sd.jpg" group-title="National", BTV CHATTOGRAM SD 0038
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/btv-chattogram-sd.jpg" group-title="National", BTV CHATTOGRAM SD 
 http://100.64.64.11:80/BTV_Chattogram/index.m3u8
-#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/sangshad-tv-sd.jpg" group-title="National", SANGSHAD TV SD 0039
+#EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/sangshad-tv-sd.jpg" group-title="National", SANGSHAD TV SD 
 http://100.64.64.11:80/Sangshad_TV_SD/index.m3u8
 
 
