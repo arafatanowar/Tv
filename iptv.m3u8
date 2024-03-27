@@ -31,7 +31,7 @@ http://100.64.64.11:80/SA_TV_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/bijoy-tv-hd.jpg" group-title="Entertainment", Bijoy TV HD 
 http://100.64.64.11:80/Bijoy_TV_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/deepto-tv-hd.jpg" group-title="Entertainment", Deepto TV HD 
-http://100.64.64.11:80/Deepto_TV_HD/index.m3u8
+http://100.64.64.11:80/DeeptoHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/bangla-tv-hd.jpg" group-title="Entertainment", Bangla TV HD 
 http://100.64.64.11:80/Bangla_TV_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/bangla-tv-hd.jpg" group-title="Entertainment", Bangla TV HD 
