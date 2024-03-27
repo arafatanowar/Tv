@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/atn-bangla-sd.jpg" group-title="Entertainment", ATN BANGLA HD 
 http://100.64.64.11:80/ATN_Bangla_SD/index.m3u8
 #EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/channel-i-hd.jpg" group-title="Entertainment", CHANNEL I HD 
-http://100.64.64.11:80/Channel_I_HD/index.m3u8
+http://100.64.64.11:80/ChanneliHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/ekushey-tv-sd.jpg" group-title="Entertainment", Ekushey TV SD 
 http://100.64.64.11:80/Ekushey_Tv_SD/index.m3u8
 #EXTINF:-1 tvg-logo="http://116.204.149.15/uploads/tv_image/sm/ntv-sd.jpg" group-title="Entertainment", NTV SD 
